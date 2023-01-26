@@ -3,7 +3,7 @@ import { useState } from 'react'
 function App() {
 
   return (
-    <div></div>
+    <h1>Control de gastos</h1>
   )
 }
 
